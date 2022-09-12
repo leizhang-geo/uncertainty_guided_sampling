@@ -1,4 +1,4 @@
-# AUGSS method
+# Adaptive uncertainty-guided sampling (AUGSS) method
 
 This repository contains the code used for the analysis in the paper:
 
