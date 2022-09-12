@@ -1,6 +1,6 @@
 # Adaptive uncertainty-guided sampling (AUGSS) method
 
-This repository contains the code used for the analysis in the paper:
+This repository contains the code of the sampling method proposed in the paper:
 
 Zhang et al. 2022. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science*
 
