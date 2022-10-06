@@ -2,7 +2,9 @@
 
 This repository contains the code of the sampling method proposed in the paper:
 
-Zhang et al. 2022. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science*
+Zhang, L., Zhu, A.-X., Liu, J., Ma, T., Yang, L., Zhou, C., 2022. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science*
+
+DOI: [https://doi.org/10.1080/13658816.2022.2125973](https://doi.org/10.1080/13658816.2022.2125973)
 
 ## Requirement
 
